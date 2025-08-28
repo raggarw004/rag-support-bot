@@ -1,0 +1,17 @@
+# Ignore Python cache
+__pycache__/
+
+# Ignore local data folder
+data/
+
+# Ignore vector store
+vectorstore/
+
+# Optional: common Python ignores
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+.envrc
+.DS_Store

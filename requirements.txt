@@ -1,0 +1,12 @@
+faiss-cpu
+sentence-transformers
+numpy
+pandas
+tqdm
+pypdf
+beautifulsoup4
+html2text
+gradio
+fastapi
+uvicorn
+ollama
